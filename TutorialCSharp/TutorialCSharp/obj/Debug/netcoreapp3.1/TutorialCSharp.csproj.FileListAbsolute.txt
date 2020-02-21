@@ -1,0 +1,11 @@
+C:\Users\abel.shongwe\source\repos\TutorialCSharp\TutorialCSharp\bin\Debug\netcoreapp3.1\TutorialCSharp.exe
+C:\Users\abel.shongwe\source\repos\TutorialCSharp\TutorialCSharp\bin\Debug\netcoreapp3.1\TutorialCSharp.deps.json
+C:\Users\abel.shongwe\source\repos\TutorialCSharp\TutorialCSharp\bin\Debug\netcoreapp3.1\TutorialCSharp.runtimeconfig.json
+C:\Users\abel.shongwe\source\repos\TutorialCSharp\TutorialCSharp\bin\Debug\netcoreapp3.1\TutorialCSharp.runtimeconfig.dev.json
+C:\Users\abel.shongwe\source\repos\TutorialCSharp\TutorialCSharp\bin\Debug\netcoreapp3.1\TutorialCSharp.dll
+C:\Users\abel.shongwe\source\repos\TutorialCSharp\TutorialCSharp\bin\Debug\netcoreapp3.1\TutorialCSharp.pdb
+C:\Users\abel.shongwe\source\repos\TutorialCSharp\TutorialCSharp\obj\Debug\netcoreapp3.1\TutorialCSharp.csprojAssemblyReference.cache
+C:\Users\abel.shongwe\source\repos\TutorialCSharp\TutorialCSharp\obj\Debug\netcoreapp3.1\TutorialCSharp.AssemblyInfoInputs.cache
+C:\Users\abel.shongwe\source\repos\TutorialCSharp\TutorialCSharp\obj\Debug\netcoreapp3.1\TutorialCSharp.AssemblyInfo.cs
+C:\Users\abel.shongwe\source\repos\TutorialCSharp\TutorialCSharp\obj\Debug\netcoreapp3.1\TutorialCSharp.dll
+C:\Users\abel.shongwe\source\repos\TutorialCSharp\TutorialCSharp\obj\Debug\netcoreapp3.1\TutorialCSharp.pdb

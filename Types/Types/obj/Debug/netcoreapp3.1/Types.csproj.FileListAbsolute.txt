@@ -1,0 +1,11 @@
+C:\Users\abel.shongwe\source\repos\Types\Types\bin\Debug\netcoreapp3.1\Types.exe
+C:\Users\abel.shongwe\source\repos\Types\Types\bin\Debug\netcoreapp3.1\Types.deps.json
+C:\Users\abel.shongwe\source\repos\Types\Types\bin\Debug\netcoreapp3.1\Types.runtimeconfig.json
+C:\Users\abel.shongwe\source\repos\Types\Types\bin\Debug\netcoreapp3.1\Types.runtimeconfig.dev.json
+C:\Users\abel.shongwe\source\repos\Types\Types\bin\Debug\netcoreapp3.1\Types.dll
+C:\Users\abel.shongwe\source\repos\Types\Types\bin\Debug\netcoreapp3.1\Types.pdb
+C:\Users\abel.shongwe\source\repos\Types\Types\obj\Debug\netcoreapp3.1\Types.csprojAssemblyReference.cache
+C:\Users\abel.shongwe\source\repos\Types\Types\obj\Debug\netcoreapp3.1\Types.AssemblyInfoInputs.cache
+C:\Users\abel.shongwe\source\repos\Types\Types\obj\Debug\netcoreapp3.1\Types.AssemblyInfo.cs
+C:\Users\abel.shongwe\source\repos\Types\Types\obj\Debug\netcoreapp3.1\Types.dll
+C:\Users\abel.shongwe\source\repos\Types\Types\obj\Debug\netcoreapp3.1\Types.pdb

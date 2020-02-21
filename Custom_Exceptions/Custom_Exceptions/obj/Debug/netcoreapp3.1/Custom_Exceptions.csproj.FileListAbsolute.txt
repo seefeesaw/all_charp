@@ -1,0 +1,11 @@
+C:\Users\abel.shongwe\source\repos\Custom_Exceptions\Custom_Exceptions\bin\Debug\netcoreapp3.1\Custom_Exceptions.exe
+C:\Users\abel.shongwe\source\repos\Custom_Exceptions\Custom_Exceptions\bin\Debug\netcoreapp3.1\Custom_Exceptions.deps.json
+C:\Users\abel.shongwe\source\repos\Custom_Exceptions\Custom_Exceptions\bin\Debug\netcoreapp3.1\Custom_Exceptions.runtimeconfig.json
+C:\Users\abel.shongwe\source\repos\Custom_Exceptions\Custom_Exceptions\bin\Debug\netcoreapp3.1\Custom_Exceptions.runtimeconfig.dev.json
+C:\Users\abel.shongwe\source\repos\Custom_Exceptions\Custom_Exceptions\bin\Debug\netcoreapp3.1\Custom_Exceptions.dll
+C:\Users\abel.shongwe\source\repos\Custom_Exceptions\Custom_Exceptions\bin\Debug\netcoreapp3.1\Custom_Exceptions.pdb
+C:\Users\abel.shongwe\source\repos\Custom_Exceptions\Custom_Exceptions\obj\Debug\netcoreapp3.1\Custom_Exceptions.csprojAssemblyReference.cache
+C:\Users\abel.shongwe\source\repos\Custom_Exceptions\Custom_Exceptions\obj\Debug\netcoreapp3.1\Custom_Exceptions.AssemblyInfoInputs.cache
+C:\Users\abel.shongwe\source\repos\Custom_Exceptions\Custom_Exceptions\obj\Debug\netcoreapp3.1\Custom_Exceptions.AssemblyInfo.cs
+C:\Users\abel.shongwe\source\repos\Custom_Exceptions\Custom_Exceptions\obj\Debug\netcoreapp3.1\Custom_Exceptions.dll
+C:\Users\abel.shongwe\source\repos\Custom_Exceptions\Custom_Exceptions\obj\Debug\netcoreapp3.1\Custom_Exceptions.pdb

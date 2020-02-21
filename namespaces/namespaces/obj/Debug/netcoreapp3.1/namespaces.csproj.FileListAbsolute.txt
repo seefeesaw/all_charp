@@ -1,0 +1,16 @@
+C:\Users\abel.shongwe\source\repos\namespaces\namespaces\bin\Debug\netcoreapp3.1\namespaces.exe
+C:\Users\abel.shongwe\source\repos\namespaces\namespaces\bin\Debug\netcoreapp3.1\namespaces.deps.json
+C:\Users\abel.shongwe\source\repos\namespaces\namespaces\bin\Debug\netcoreapp3.1\namespaces.runtimeconfig.json
+C:\Users\abel.shongwe\source\repos\namespaces\namespaces\bin\Debug\netcoreapp3.1\namespaces.runtimeconfig.dev.json
+C:\Users\abel.shongwe\source\repos\namespaces\namespaces\bin\Debug\netcoreapp3.1\namespaces.dll
+C:\Users\abel.shongwe\source\repos\namespaces\namespaces\bin\Debug\netcoreapp3.1\namespaces.pdb
+C:\Users\abel.shongwe\source\repos\namespaces\namespaces\obj\Debug\netcoreapp3.1\namespaces.csprojAssemblyReference.cache
+C:\Users\abel.shongwe\source\repos\namespaces\namespaces\obj\Debug\netcoreapp3.1\namespaces.AssemblyInfoInputs.cache
+C:\Users\abel.shongwe\source\repos\namespaces\namespaces\obj\Debug\netcoreapp3.1\namespaces.AssemblyInfo.cs
+C:\Users\abel.shongwe\source\repos\namespaces\namespaces\obj\Debug\netcoreapp3.1\namespaces.dll
+C:\Users\abel.shongwe\source\repos\namespaces\namespaces\obj\Debug\netcoreapp3.1\namespaces.pdb
+C:\Users\abel.shongwe\source\repos\namespaces\namespaces\bin\Debug\netcoreapp3.1\ProjectA.TeamA.dll
+C:\Users\abel.shongwe\source\repos\namespaces\namespaces\bin\Debug\netcoreapp3.1\ProjectA.TeamB.dll
+C:\Users\abel.shongwe\source\repos\namespaces\namespaces\bin\Debug\netcoreapp3.1\ProjectA.TeamA.pdb
+C:\Users\abel.shongwe\source\repos\namespaces\namespaces\bin\Debug\netcoreapp3.1\ProjectA.TeamB.pdb
+C:\Users\abel.shongwe\source\repos\namespaces\namespaces\obj\Debug\netcoreapp3.1\namespaces.csproj.CopyComplete

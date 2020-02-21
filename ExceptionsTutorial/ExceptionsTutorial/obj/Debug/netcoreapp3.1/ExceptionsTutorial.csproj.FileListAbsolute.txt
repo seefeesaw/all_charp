@@ -1,0 +1,11 @@
+C:\Users\abel.shongwe\source\repos\ExceptionsTutorial\ExceptionsTutorial\bin\Debug\netcoreapp3.1\ExceptionsTutorial.exe
+C:\Users\abel.shongwe\source\repos\ExceptionsTutorial\ExceptionsTutorial\bin\Debug\netcoreapp3.1\ExceptionsTutorial.deps.json
+C:\Users\abel.shongwe\source\repos\ExceptionsTutorial\ExceptionsTutorial\bin\Debug\netcoreapp3.1\ExceptionsTutorial.runtimeconfig.json
+C:\Users\abel.shongwe\source\repos\ExceptionsTutorial\ExceptionsTutorial\bin\Debug\netcoreapp3.1\ExceptionsTutorial.runtimeconfig.dev.json
+C:\Users\abel.shongwe\source\repos\ExceptionsTutorial\ExceptionsTutorial\bin\Debug\netcoreapp3.1\ExceptionsTutorial.dll
+C:\Users\abel.shongwe\source\repos\ExceptionsTutorial\ExceptionsTutorial\bin\Debug\netcoreapp3.1\ExceptionsTutorial.pdb
+C:\Users\abel.shongwe\source\repos\ExceptionsTutorial\ExceptionsTutorial\obj\Debug\netcoreapp3.1\ExceptionsTutorial.csprojAssemblyReference.cache
+C:\Users\abel.shongwe\source\repos\ExceptionsTutorial\ExceptionsTutorial\obj\Debug\netcoreapp3.1\ExceptionsTutorial.AssemblyInfoInputs.cache
+C:\Users\abel.shongwe\source\repos\ExceptionsTutorial\ExceptionsTutorial\obj\Debug\netcoreapp3.1\ExceptionsTutorial.AssemblyInfo.cs
+C:\Users\abel.shongwe\source\repos\ExceptionsTutorial\ExceptionsTutorial\obj\Debug\netcoreapp3.1\ExceptionsTutorial.dll
+C:\Users\abel.shongwe\source\repos\ExceptionsTutorial\ExceptionsTutorial\obj\Debug\netcoreapp3.1\ExceptionsTutorial.pdb

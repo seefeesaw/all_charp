@@ -1,0 +1,11 @@
+C:\Users\abel.shongwe\source\repos\InterfaceImplementation\InterfaceImplementation\bin\Debug\netcoreapp3.1\InterfaceImplementation.exe
+C:\Users\abel.shongwe\source\repos\InterfaceImplementation\InterfaceImplementation\bin\Debug\netcoreapp3.1\InterfaceImplementation.deps.json
+C:\Users\abel.shongwe\source\repos\InterfaceImplementation\InterfaceImplementation\bin\Debug\netcoreapp3.1\InterfaceImplementation.runtimeconfig.json
+C:\Users\abel.shongwe\source\repos\InterfaceImplementation\InterfaceImplementation\bin\Debug\netcoreapp3.1\InterfaceImplementation.runtimeconfig.dev.json
+C:\Users\abel.shongwe\source\repos\InterfaceImplementation\InterfaceImplementation\bin\Debug\netcoreapp3.1\InterfaceImplementation.dll
+C:\Users\abel.shongwe\source\repos\InterfaceImplementation\InterfaceImplementation\bin\Debug\netcoreapp3.1\InterfaceImplementation.pdb
+C:\Users\abel.shongwe\source\repos\InterfaceImplementation\InterfaceImplementation\obj\Debug\netcoreapp3.1\InterfaceImplementation.csprojAssemblyReference.cache
+C:\Users\abel.shongwe\source\repos\InterfaceImplementation\InterfaceImplementation\obj\Debug\netcoreapp3.1\InterfaceImplementation.AssemblyInfoInputs.cache
+C:\Users\abel.shongwe\source\repos\InterfaceImplementation\InterfaceImplementation\obj\Debug\netcoreapp3.1\InterfaceImplementation.AssemblyInfo.cs
+C:\Users\abel.shongwe\source\repos\InterfaceImplementation\InterfaceImplementation\obj\Debug\netcoreapp3.1\InterfaceImplementation.dll
+C:\Users\abel.shongwe\source\repos\InterfaceImplementation\InterfaceImplementation\obj\Debug\netcoreapp3.1\InterfaceImplementation.pdb

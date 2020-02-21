@@ -1,0 +1,11 @@
+C:\Users\abel.shongwe\source\repos\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csprojAssemblyReference.cache
+C:\Users\abel.shongwe\source\repos\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+C:\Users\abel.shongwe\source\repos\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+C:\Users\abel.shongwe\source\repos\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+C:\Users\abel.shongwe\source\repos\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+C:\Users\abel.shongwe\source\repos\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+C:\Users\abel.shongwe\source\repos\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+C:\Users\abel.shongwe\source\repos\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+C:\Users\abel.shongwe\source\repos\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\abel.shongwe\source\repos\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+C:\Users\abel.shongwe\source\repos\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.pdb

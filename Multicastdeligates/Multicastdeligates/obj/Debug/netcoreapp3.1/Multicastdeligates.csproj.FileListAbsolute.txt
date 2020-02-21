@@ -1,0 +1,11 @@
+C:\Users\abel.shongwe\source\repos\Multicastdeligates\Multicastdeligates\bin\Debug\netcoreapp3.1\Multicastdeligates.exe
+C:\Users\abel.shongwe\source\repos\Multicastdeligates\Multicastdeligates\bin\Debug\netcoreapp3.1\Multicastdeligates.deps.json
+C:\Users\abel.shongwe\source\repos\Multicastdeligates\Multicastdeligates\bin\Debug\netcoreapp3.1\Multicastdeligates.runtimeconfig.json
+C:\Users\abel.shongwe\source\repos\Multicastdeligates\Multicastdeligates\bin\Debug\netcoreapp3.1\Multicastdeligates.runtimeconfig.dev.json
+C:\Users\abel.shongwe\source\repos\Multicastdeligates\Multicastdeligates\bin\Debug\netcoreapp3.1\Multicastdeligates.dll
+C:\Users\abel.shongwe\source\repos\Multicastdeligates\Multicastdeligates\bin\Debug\netcoreapp3.1\Multicastdeligates.pdb
+C:\Users\abel.shongwe\source\repos\Multicastdeligates\Multicastdeligates\obj\Debug\netcoreapp3.1\Multicastdeligates.csprojAssemblyReference.cache
+C:\Users\abel.shongwe\source\repos\Multicastdeligates\Multicastdeligates\obj\Debug\netcoreapp3.1\Multicastdeligates.AssemblyInfoInputs.cache
+C:\Users\abel.shongwe\source\repos\Multicastdeligates\Multicastdeligates\obj\Debug\netcoreapp3.1\Multicastdeligates.AssemblyInfo.cs
+C:\Users\abel.shongwe\source\repos\Multicastdeligates\Multicastdeligates\obj\Debug\netcoreapp3.1\Multicastdeligates.dll
+C:\Users\abel.shongwe\source\repos\Multicastdeligates\Multicastdeligates\obj\Debug\netcoreapp3.1\Multicastdeligates.pdb

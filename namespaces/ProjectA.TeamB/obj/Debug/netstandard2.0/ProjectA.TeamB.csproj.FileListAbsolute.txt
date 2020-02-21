@@ -1,0 +1,8 @@
+C:\Users\abel.shongwe\source\repos\namespaces\ProjectA.TeamB\bin\Debug\netstandard2.0\ProjectA.TeamB.deps.json
+C:\Users\abel.shongwe\source\repos\namespaces\ProjectA.TeamB\bin\Debug\netstandard2.0\ProjectA.TeamB.dll
+C:\Users\abel.shongwe\source\repos\namespaces\ProjectA.TeamB\bin\Debug\netstandard2.0\ProjectA.TeamB.pdb
+C:\Users\abel.shongwe\source\repos\namespaces\ProjectA.TeamB\obj\Debug\netstandard2.0\ProjectA.TeamB.csprojAssemblyReference.cache
+C:\Users\abel.shongwe\source\repos\namespaces\ProjectA.TeamB\obj\Debug\netstandard2.0\ProjectA.TeamB.AssemblyInfoInputs.cache
+C:\Users\abel.shongwe\source\repos\namespaces\ProjectA.TeamB\obj\Debug\netstandard2.0\ProjectA.TeamB.AssemblyInfo.cs
+C:\Users\abel.shongwe\source\repos\namespaces\ProjectA.TeamB\obj\Debug\netstandard2.0\ProjectA.TeamB.dll
+C:\Users\abel.shongwe\source\repos\namespaces\ProjectA.TeamB\obj\Debug\netstandard2.0\ProjectA.TeamB.pdb

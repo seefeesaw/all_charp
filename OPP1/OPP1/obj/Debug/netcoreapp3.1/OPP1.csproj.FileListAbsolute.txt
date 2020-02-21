@@ -1,0 +1,11 @@
+C:\Users\abel.shongwe\source\repos\OPP1\OPP1\bin\Debug\netcoreapp3.1\OPP1.exe
+C:\Users\abel.shongwe\source\repos\OPP1\OPP1\bin\Debug\netcoreapp3.1\OPP1.deps.json
+C:\Users\abel.shongwe\source\repos\OPP1\OPP1\bin\Debug\netcoreapp3.1\OPP1.runtimeconfig.json
+C:\Users\abel.shongwe\source\repos\OPP1\OPP1\bin\Debug\netcoreapp3.1\OPP1.runtimeconfig.dev.json
+C:\Users\abel.shongwe\source\repos\OPP1\OPP1\bin\Debug\netcoreapp3.1\OPP1.dll
+C:\Users\abel.shongwe\source\repos\OPP1\OPP1\bin\Debug\netcoreapp3.1\OPP1.pdb
+C:\Users\abel.shongwe\source\repos\OPP1\OPP1\obj\Debug\netcoreapp3.1\OPP1.csprojAssemblyReference.cache
+C:\Users\abel.shongwe\source\repos\OPP1\OPP1\obj\Debug\netcoreapp3.1\OPP1.AssemblyInfoInputs.cache
+C:\Users\abel.shongwe\source\repos\OPP1\OPP1\obj\Debug\netcoreapp3.1\OPP1.AssemblyInfo.cs
+C:\Users\abel.shongwe\source\repos\OPP1\OPP1\obj\Debug\netcoreapp3.1\OPP1.dll
+C:\Users\abel.shongwe\source\repos\OPP1\OPP1\obj\Debug\netcoreapp3.1\OPP1.pdb

@@ -1,0 +1,12 @@
+C:\Users\abel.shongwe\source\repos\interns\Todo.API\Todo.Data\bin\Debug\netcoreapp2.1\Todo.Data.deps.json
+C:\Users\abel.shongwe\source\repos\interns\Todo.API\Todo.Data\bin\Debug\netcoreapp2.1\Todo.Data.dll
+C:\Users\abel.shongwe\source\repos\interns\Todo.API\Todo.Data\bin\Debug\netcoreapp2.1\Todo.Data.pdb
+C:\Users\abel.shongwe\source\repos\interns\Todo.API\Todo.Data\obj\Debug\netcoreapp2.1\Todo.Data.csproj.CoreCompileInputs.cache
+C:\Users\abel.shongwe\source\repos\interns\Todo.API\Todo.Data\obj\Debug\netcoreapp2.1\Todo.Data.AssemblyInfoInputs.cache
+C:\Users\abel.shongwe\source\repos\interns\Todo.API\Todo.Data\obj\Debug\netcoreapp2.1\Todo.Data.AssemblyInfo.cs
+C:\Users\abel.shongwe\source\repos\interns\Todo.API\Todo.Data\obj\Debug\netcoreapp2.1\Todo.Data.dll
+C:\Users\abel.shongwe\source\repos\interns\Todo.API\Todo.Data\obj\Debug\netcoreapp2.1\Todo.Data.pdb
+C:\Users\abel.shongwe\source\repos\interns\Todo.API\Todo.Data\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\abel.shongwe\source\repos\interns\Todo.API\Todo.Data\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\abel.shongwe\source\repos\interns\Todo.API\Todo.Data\obj\Debug\netcoreapp2.1\Todo.Data.csprojAssemblyReference.cache
+C:\Users\abel.shongwe\source\repos\interns\Todo.API\Todo.Data\obj\Debug\netcoreapp2.1\Todo.Data.csproj.CopyComplete

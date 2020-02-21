@@ -1,0 +1,11 @@
+C:\Users\abel.shongwe\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.exe
+C:\Users\abel.shongwe\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.deps.json
+C:\Users\abel.shongwe\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.runtimeconfig.json
+C:\Users\abel.shongwe\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.runtimeconfig.dev.json
+C:\Users\abel.shongwe\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.dll
+C:\Users\abel.shongwe\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.pdb
+C:\Users\abel.shongwe\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\abel.shongwe\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\abel.shongwe\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.AssemblyInfo.cs
+C:\Users\abel.shongwe\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.dll
+C:\Users\abel.shongwe\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.pdb

@@ -1,0 +1,11 @@
+C:\Users\abel.shongwe\source\repos\method_params\method_params\bin\Debug\netcoreapp3.1\method_params.exe
+C:\Users\abel.shongwe\source\repos\method_params\method_params\bin\Debug\netcoreapp3.1\method_params.deps.json
+C:\Users\abel.shongwe\source\repos\method_params\method_params\bin\Debug\netcoreapp3.1\method_params.runtimeconfig.json
+C:\Users\abel.shongwe\source\repos\method_params\method_params\bin\Debug\netcoreapp3.1\method_params.runtimeconfig.dev.json
+C:\Users\abel.shongwe\source\repos\method_params\method_params\bin\Debug\netcoreapp3.1\method_params.dll
+C:\Users\abel.shongwe\source\repos\method_params\method_params\bin\Debug\netcoreapp3.1\method_params.pdb
+C:\Users\abel.shongwe\source\repos\method_params\method_params\obj\Debug\netcoreapp3.1\method_params.csprojAssemblyReference.cache
+C:\Users\abel.shongwe\source\repos\method_params\method_params\obj\Debug\netcoreapp3.1\method_params.AssemblyInfoInputs.cache
+C:\Users\abel.shongwe\source\repos\method_params\method_params\obj\Debug\netcoreapp3.1\method_params.AssemblyInfo.cs
+C:\Users\abel.shongwe\source\repos\method_params\method_params\obj\Debug\netcoreapp3.1\method_params.dll
+C:\Users\abel.shongwe\source\repos\method_params\method_params\obj\Debug\netcoreapp3.1\method_params.pdb

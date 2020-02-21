@@ -1,0 +1,8 @@
+C:\Users\abel.shongwe\source\repos\interns\Todo.API\Todo.DataContracts\bin\Debug\netcoreapp2.1\Todo.DataContracts.deps.json
+C:\Users\abel.shongwe\source\repos\interns\Todo.API\Todo.DataContracts\bin\Debug\netcoreapp2.1\Todo.DataContracts.dll
+C:\Users\abel.shongwe\source\repos\interns\Todo.API\Todo.DataContracts\bin\Debug\netcoreapp2.1\Todo.DataContracts.pdb
+C:\Users\abel.shongwe\source\repos\interns\Todo.API\Todo.DataContracts\obj\Debug\netcoreapp2.1\Todo.DataContracts.csproj.CoreCompileInputs.cache
+C:\Users\abel.shongwe\source\repos\interns\Todo.API\Todo.DataContracts\obj\Debug\netcoreapp2.1\Todo.DataContracts.AssemblyInfoInputs.cache
+C:\Users\abel.shongwe\source\repos\interns\Todo.API\Todo.DataContracts\obj\Debug\netcoreapp2.1\Todo.DataContracts.AssemblyInfo.cs
+C:\Users\abel.shongwe\source\repos\interns\Todo.API\Todo.DataContracts\obj\Debug\netcoreapp2.1\Todo.DataContracts.dll
+C:\Users\abel.shongwe\source\repos\interns\Todo.API\Todo.DataContracts\obj\Debug\netcoreapp2.1\Todo.DataContracts.pdb
